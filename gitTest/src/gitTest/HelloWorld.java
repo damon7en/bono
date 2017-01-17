@@ -12,7 +12,7 @@ public class HelloWorld {
 		System.out.println("master master");
 
 		System.out.println("branch branch");
-
+		System.out.println("commit and push");
 		
 	}
 
