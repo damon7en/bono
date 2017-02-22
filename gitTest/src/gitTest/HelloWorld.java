@@ -6,9 +6,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		int a = 1;
 		int b = 2;
-		
-		
-				System.out.println("гу :"+(a+b));
+
+		System.out.println("sum:" + (a + b));
 
 	}
 
