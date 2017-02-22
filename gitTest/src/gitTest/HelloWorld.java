@@ -7,6 +7,7 @@ public class HelloWorld {
 		int a = 1;
 		int b = 2;
 		
+		
 				System.out.println("гу :"+(a+b));
 
 	}
